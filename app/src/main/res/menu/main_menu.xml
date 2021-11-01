@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/action_dates_teach"
+        android:orderInCategory="1"
+        android:title = "Изучение дат"/>
+
+    <item
+        android:id = "@+id/action_dates_checking"
+        android:orderInCategory="2"
+        android:title = "Проверка дат"/>
+    <item
+        android:id = "@+id/action_dates_all"
+        android:orderInCategory="3"
+        android:title = "Просмотр всех дат"/>
+    <item
+        android:id = "@+id/action_dates_learn"
+        android:orderInCategory="4"
+        android:title = "Просмотр изученных дат"/>
+    <item
+        android:id = "@+id/action_developer"
+        android:orderInCategory="5"
+        android:title = "Разработчик"/>
+</menu>
